@@ -44,7 +44,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/flipkart-data-engineering.git
+git clone https://github.com/Jerin2004/Flipkar_Data_Engineering_PySpark
 Import the notebook into your Databricks Workspace.
 
 Attach the notebook to a running cluster.
